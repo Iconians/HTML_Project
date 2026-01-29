@@ -2,6 +2,17 @@
 
 Create a fully functional, multi-page website that demonstrates mastery of all HTML concepts learned throughout this course.
 
+**Reminder: Create a repo (GitHub + local)**
+
+- **On GitHub:** Sign in → "+" → "New repository" → Name it (e.g. `html-project`) → Leave "Add a README file" **unchecked** → Create repository.
+- **In the terminal (locally):**
+  1. `mkdir project-name` then `cd project-name`
+  2. `git init`
+  3. Create your files, then: `git add .` → `git commit -m "Initial commit"`
+  4. `git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git`
+  5. `git branch -M main` (if needed)
+  6. `git push -u origin main`
+
 **Requirements:**
 
 **Structure (25%):**
